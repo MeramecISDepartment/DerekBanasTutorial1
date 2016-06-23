@@ -10,6 +10,7 @@ namespace DerekBanasTutorial1
     {
         static void Main(string[] args)
         {
+            //Note to self: System.Console.WriteLine("[insert words]"); writes a line to the console.
         }
     }
 }
